@@ -2,7 +2,8 @@
 This module contains python-cherokee's `main` method and related subroutines
 """
 
-def main()
+
+def main():
     """
     Main command-line execution loop
     """
